@@ -1,4 +1,5 @@
 # Drug-Drug Interaction Prediction System (DGNN-DDI)
+models drive link:https://drive.google.com/drive/folders/1YpeP_qG0VVU-Mq-vpQVZ8qdWg8mmuC44?usp=sharing
 
 [![Python 3.13](https://img.shields.io/badge/python-3.13-blue.svg)](https://www.python.org/downloads/)
 [![Streamlit](https://img.shields.io/badge/streamlit-1.28+-red.svg)](https://streamlit.io/)
