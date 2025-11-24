@@ -1,0 +1,10 @@
+torch
+torch-geometric
+torch-scatter
+torch-sparse
+torch-cluster
+torch-spline-conv
+Streamline
+pandas
+numpy
+tqdm
